@@ -1,16 +1,37 @@
 html{
-color: black;
+color: white;
+background-color: black;
 }
 
 nav{
-    display: flex;
-    justify-content: space-around;
+    display: table-row;
+    align-items: center;
 }
 
 a{
-    background-color: #dddd;
+    background-color: black;
 }
 
 a:hover{
     background-color: black;
+}
+
+.badboys{
+    text-align: center;
+}
+
+#boys{
+    display: flex;
+    align-items: center;
+}
+
+#popo{
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+}
+
+
+footer{
+    display: flex;
 }
