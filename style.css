@@ -1,0 +1,16 @@
+html{
+color: black;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    background-color: #dddd;
+}
+
+a:hover{
+    background-color: black;
+}
