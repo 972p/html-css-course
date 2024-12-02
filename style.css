@@ -110,4 +110,11 @@ table, th, td {
 }
 .film{
     width: 200px;
+    border-radius: 10px;
+}
+
+
+.series{
+    width: 200px;
+    border-radius: 10px;
 }
